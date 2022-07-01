@@ -7,3 +7,6 @@
 [submodule "LeetcodeAnswers"]
 	path = LeetcodeAnswers
 	url = https://github.com/asdfghjkxd/LeetcodeAnswers
+[submodule "ModTracker"]
+	path = ModTracker
+	url = https://github.com/asdfghjkxd/ModTracker
