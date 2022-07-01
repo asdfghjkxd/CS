@@ -1,0 +1,9 @@
+[submodule "CS1010X"]
+	path = CS1010X
+	url = https://github.com/asdfghjkxd/CS1010X
+[submodule "JavaReferences"]
+	path = JavaReferences
+	url = https://github.com/asdfghjkxd/JavaReferences
+[submodule "LeetcodeAnswers"]
+	path = LeetcodeAnswers
+	url = https://github.com/asdfghjkxd/LeetcodeAnswers
